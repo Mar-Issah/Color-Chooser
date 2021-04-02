@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,300&display=swap");
+
+:root {
+	/* -----------theme colors (varibale)------------- */
+	--bg-gray: #bdb8b1;
+	--text-curry: #cc8523;
+}
+
+html,
+body {
+	font-family: "Poppins", sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+
+	max-width: 100%;
+	overflow: hidden;
+}
+
+header {
+	background: var(--bg-gray);
+	height: 15vh;
+}
+
+.container {
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+ul {
+	display: flex;
+	list-style-type: none;
+}
+
+h2 {
+	font-size: 2rem;
+}
+a {
+	text-decoration: none;
+	color: var(--text-curry);
+}
+
+.linkedin {
+	color: blue;
+}
+
+a:hover,
+a:focus {
+	color: #143774;
+	font-weight: bolder;
+}
+
+.page-name {
+	font-size: 1.3rem;
+	padding: 0 1rem;
+	color: var(--text-curry);
+	font-style: italic;
+	letter-spacing: 0.1rem;
+}
+
+.nav-items {
+	display: flex;
+	padding: 0 2rem;
+}
+
+.nav-links {
+	padding: 1.3em 1rem;
+	font-size: 1.1rem;
+}
+
+.current-page {
+	/* text-decoration: underline; */
+	border-bottom: 1px solid #707070;
+}
+
+.current-page:hover {
+	color: var(--text-curry); /*you dont want a hover color since it currnt page*/
+}
+main {
+	display: flex;
+	flex-direction: column;
+	margin: auto auto;
+}
+
+.container-main {
+	height: 46vh;
+	display: block;
+	margin: auto auto;
+	padding-top: 8rem;
+	justify-content: center;
+}
+
+.btn {
+	width: 5rem;
+	margin-left: 8rem;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	font-size: 1rem;
+	color: var(--text-curry);
+	cursor: pointer;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: var(--bg-gray);
+	text-align: center;
+	height: 9vh;
+	padding: 1rem 0.5rem;
+	color: var(--text-curry);
+	font-size: 0.95rem;
+}
+
+@media (min-width: 800px) {
+	.page-name {
+		font-size: 1.3rem;
+		padding: 0 8rem;
+	}
+
+	.nav-items {
+		padding: 0 8rem;
+	}
+}
