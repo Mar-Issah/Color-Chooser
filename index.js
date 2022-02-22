@@ -1,9 +1,9 @@
-const colors = [ "Green", "Red", "Blue", "Pink", "Orange", "Violet", "Yellow", "Grey", "Brown" ];
+const colors = [ "Green", "Red", "Blue", "Pink", "Orange", "Violet", "Yellow", "Grey", "Brown" ,"White", "Black"];
 
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 
-btn.addEventListener("click", function () { 
+btn.addEventListener("click", function () {
     //get random numbers from the colors array
     const randomNumber = getRandomNumber();
 
