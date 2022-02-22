@@ -70,8 +70,8 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 ## Contact :e-mail:
 
-Marsiya Issah - masy370@gmail.com
+Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/Color-Chooser.git](https://github.com/Mar-Issah/Color-Chooser.git)
+Project Link: [https://github.com/Mar-Issah/Color-Chooser.git](https://github.com/Mar-Issah/Color-Chooser.git).
 
-Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
+Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/).
