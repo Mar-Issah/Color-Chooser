@@ -24,7 +24,7 @@ This app basically is a two page web app which displays color name and hex code 
 
 ## Getting Started
 
-This is JavaScript Web application which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
+This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 ### Installation
 
@@ -33,8 +33,8 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
    git clone https://github.com/Mar-Issah/Color-Chooser.git
    ```
 2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install live server extension
-4. Open index.html file with live server to run the app in browser
+3. Install live server extension.
+4. Open index.html file with live server to run the app in browser.
 
 <br>
 
