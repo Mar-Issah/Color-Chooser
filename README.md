@@ -24,7 +24,7 @@ This app basically is a two page web app which displays color name and hex code 
 
 ## Getting Started
 
-This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
+This is JavaScript web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 ### Installation
 
