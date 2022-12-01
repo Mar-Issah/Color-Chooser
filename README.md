@@ -32,7 +32,7 @@ This is JavaScript web application which runs in the browser. You need a V8 engi
    ```sh
    git clone https://github.com/Mar-Issah/Color-Chooser.git
    ```
-2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
+2. Download and install [Visual Studio Code](https://code.visualstudio.com/).
 3. Install live server extension.
 4. Open index.html file with live server to run the app in browser.
 
