@@ -1,6 +1,6 @@
 # Color Chooser
 
-A simple web application which allows user to choose colors and hex code.
+A simple web application which allows user to choose colors and hex codes.
 
 ## About The Project
 
